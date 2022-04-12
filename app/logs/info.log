@@ -1,0 +1,250 @@
+[2022-04-07 17:48:54,035] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,052] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/dashboard, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,052] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/dashboard, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,189] 127.0.0.1 requested http://localhost/register
+INFO in __init__: method: GET,  path: /register,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/register, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,189] 127.0.0.1 requested http://localhost/register
+INFO in __init__: method: GET,  path: /register,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/register, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,206] 127.0.0.1 requested http://localhost/login
+INFO in __init__: method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/login, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,206] 127.0.0.1 requested http://localhost/login
+INFO in __init__: method: GET,  path: /login,  status: 200,  duration: 0.01,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/login, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,355] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,480] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.11,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,480] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.11,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,480] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.11,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,480] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.11,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,609] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,757] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:54,890] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:54Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,029] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.13,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,167] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.12,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:48:55,402] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.22,  time: 2022-04-07T17:48:55Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-07 17:49:07,967] 172.24.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-07T17:49:07Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/, 172.24.0.1, localhost, {}
+[2022-04-07 17:49:11,630] 172.24.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.03,  time: 2022-04-07T17:49:11Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/about, 172.24.0.1, localhost, {}
+[2022-04-07 17:49:12,312] 172.24.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.03,  time: 2022-04-07T17:49:12Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/welcome, 172.24.0.1, localhost, {}
+[2022-04-07 17:50:53,570] 172.24.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.02,  time: 2022-04-07T17:50:53Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/about, 172.24.0.1, localhost, {}
+[2022-04-07 17:50:54,845] 172.24.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.02,  time: 2022-04-07T17:50:54Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/, 172.24.0.1, localhost, {}
+[2022-04-07 17:51:04,701] 172.24.0.1 requested http://localhost/login
+INFO in __init__: method: POST,  path: /login,  status: 302,  duration: 0.01,  time: 2022-04-07T17:51:04Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/login, 172.24.0.1, localhost, {}
+[2022-04-07 17:51:04,729] 172.24.0.1 requested http://localhost/login
+INFO in __init__: method: GET,  path: /login,  status: 200,  duration: 0.02,  time: 2022-04-07T17:51:04Z,  ip: 172.24.0.1,  host: localhost,  params: {},  ,/login, 172.24.0.1, localhost, {}
+[2022-04-12 05:06:04,221] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.17,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,247] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/dashboard, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,247] 127.0.0.1 requested http://localhost/dashboard
+INFO in __init__: method: GET,  path: /dashboard,  status: 302,  duration: 0.0,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/dashboard, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,456] 127.0.0.1 requested http://localhost/register
+INFO in __init__: method: GET,  path: /register,  status: 200,  duration: 0.2,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/register, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,456] 127.0.0.1 requested http://localhost/register
+INFO in __init__: method: GET,  path: /register,  status: 200,  duration: 0.2,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/register, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,484] 127.0.0.1 requested http://localhost/login
+INFO in __init__: method: GET,  path: /login,  status: 200,  duration: 0.02,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/login, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,484] 127.0.0.1 requested http://localhost/login
+INFO in __init__: method: GET,  path: /login,  status: 200,  duration: 0.02,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/login, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,703] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,703] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,703] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,886] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,886] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,886] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:04,886] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.16,  time: 2022-04-12T05:06:04Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,068] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,068] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,068] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,068] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,068] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,243] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,413] 127.0.0.1 requested http://localhost/
+INFO in __init__: method: GET,  path: /,  status: 200,  duration: 0.15,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,617] 127.0.0.1 requested http://localhost/about
+INFO in __init__: method: GET,  path: /about,  status: 200,  duration: 0.18,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/about, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:05,840] 127.0.0.1 requested http://localhost/welcome
+INFO in __init__: method: GET,  path: /welcome,  status: 200,  duration: 0.19,  time: 2022-04-12T05:06:05Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/welcome, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
+[2022-04-12 05:06:06,027] 127.0.0.1 requested http://localhost/page5
+INFO in __init__: method: GET,  path: /page5,  status: 404,  duration: 0.16,  time: 2022-04-12T05:06:06Z,  ip: 127.0.0.1,  host: localhost,  params: {},  ,/page5, 127.0.0.1, localhost, {}
