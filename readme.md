@@ -1,4 +1,4 @@
-# Project Set-up
+# Project Setup
 
 [![Production Workflow 1](https://github.com/Protoge/flask_auth4/actions/workflows/prod.yml/badge.svg)](https://github.com/Protoge/flask_auth4/actions/workflows/prod.yml)
 * [Production Deployment](https://kwilliam-prod.herokuapp.com/)
