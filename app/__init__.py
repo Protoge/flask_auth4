@@ -21,6 +21,7 @@ from app.exceptions import http_exceptions
 from app.simple_pages import simple_pages
 import logging
 from flask.logging import default_handler
+from app.log_formatters import RequestFormatter
 
 login_manager = flask_login.LoginManager()
 
@@ -28,17 +29,6 @@ login_manager = flask_login.LoginManager()
 def page_not_found(e):
     return render_template("404.html"), 404
 
-
-class RequestFormatter(logging.Formatter):
-    def format(self, record):
-        if has_request_context():
-            record.url = request.url
-            record.remote_addr = request.remote_addr
-        else:
-            record.url = None
-            record.remote_addr = None
-
-        return super().format(record)
 
 
 def create_app():
@@ -73,12 +63,13 @@ def create_app():
     if not os.path.exists(logdir):
         os.mkdir(logdir)
     # set name of the log file
-    log_file = os.path.join(logdir, 'app-warning.log')
+    log_file = os.path.join(logdir, 'info.log')
 
     # Create a log file formatter object to create the entry in the log
+
     formatter = RequestFormatter(
         '[%(asctime)s] %(remote_addr)s requested %(url)s\n'
-        '%(levelname)s in %(module)s: %(message)s'
+        '%(levelname)s in %(module)s: %(message)s ,%(request_path)s, %(ip)s, %(host)s, %(args)s'
     )
     handler = logging.FileHandler(log_file)
     # set the formatter for the log entry
@@ -136,7 +127,6 @@ def create_app():
         return response
 
     return app
-
 
 @login_manager.user_loader
 def user_loader(user_id):
