@@ -50,6 +50,5 @@ python-dotenv
 sqlalchemy-serializer
 rfc3339
 Flask-CORS
-requests~=2.27.1
 setuptools~=57.0.0
 Flask-Mail
