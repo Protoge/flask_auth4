@@ -1,0 +1,5 @@
+2022-04-27 05:52:50,497 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-27 05:59:53,560 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-27 14:58:29,619 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-27 14:58:29,684 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-29 02:22:32,988 [INFO] browse_users app: Browse page loading

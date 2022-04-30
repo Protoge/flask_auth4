@@ -1,4 +1,5 @@
 """This test the homepage"""
+import logging
 
 def test_request_main_menu_links(client):
     """This makes the index page"""

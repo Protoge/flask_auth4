@@ -6,6 +6,8 @@ from app.auth.forms import login_form, register_form, profile_form, security_for
 from app.db import db
 from app.db.models import User
 
+import logging
+
 auth = Blueprint('auth', __name__, template_folder='templates')
 from flask import current_app
 
@@ -15,6 +17,8 @@ from flask import current_app
 @auth.route('/login', methods=['POST', 'GET'])
 def login():
     form = login_form()
+    log = logging.getLogger('login-log')
+    log.info("Login Test")
     if current_user.is_authenticated:
         return redirect(url_for('auth.dashboard'))
     if form.validate_on_submit():
@@ -34,6 +38,8 @@ def login():
 
 @auth.route('/register', methods=['POST', 'GET'])
 def register():
+    log = logging.getLogger('register-log')
+    log.info("Register Test")
     if current_user.is_authenticated:
         return redirect(url_for('auth.dashboard'))
     form = register_form()
@@ -55,9 +61,11 @@ def register():
     return render_template('register.html', form=form)
 
 
-@auth.route('/dashboard')
+@auth.route('/dashboard', methods=['POST','GET'])
 @login_required
 def dashboard():
+    log = logging.getLogger('dashboard-log')
+    log.info('Dashboard check')
     return render_template('dashboard.html')
 
 
